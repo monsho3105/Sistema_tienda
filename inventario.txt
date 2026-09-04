@@ -1,0 +1,11 @@
+INVENTARIO - SISTEMA TIENDA
+============================
+
+Producto                Precio
+----------------------  --------
+Arroz x 1kg              $4.500
+Aceite vegetal x 1L      $9.800
+Leche entera x 1L        $3.200
+Pan tajado x 500g        $5.600
+Azúcar x 1kg              $4.100
+Café molido x 250g       $8.900
